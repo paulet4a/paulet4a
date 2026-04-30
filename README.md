@@ -8,7 +8,6 @@ AI-powered crypto futures execution platform. Paper-first, governed rollout, aud
 
 [![Website](https://img.shields.io/badge/Website-chimeramind.com-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chimeramind.com)
 [![X](https://img.shields.io/badge/X-@ChimeraMindApp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ChimeraMindApp)
-[![Whop](https://img.shields.io/badge/Whop-Store-FF6B35?style=for-the-badge)](https://whop.com/chimeramind)
 [![Download](https://img.shields.io/badge/Desktop-Download-10B981?style=for-the-badge&logo=tauri&logoColor=white)](https://github.com/paulet4a/ChimeraMind-releases/releases/latest)
 
 </div>
@@ -32,7 +31,6 @@ AI-powered crypto futures execution platform. Paper-first, governed rollout, aud
 
 - Product: <https://chimeramind.com>
 - X: [@ChimeraMindApp](https://x.com/ChimeraMindApp)
-- Store: [whop.com/chimeramind](https://whop.com/chimeramind)
 - Releases: [ChimeraMind-releases](https://github.com/paulet4a/ChimeraMind-releases/releases)
 
 <div align="center">
