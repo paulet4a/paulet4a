@@ -2,13 +2,13 @@
 
 # paulet4a
 
-**Founder & Engineer — building [ChimeraMind](https://chimeramind.com)**
+**Founder & Engineer — building [ChimeraMiND](https://chimeramind.com)**
 
 Trading, reimagined as an organism. 21 strategies as one antifragile mind.
 
 [![Website](https://img.shields.io/badge/Website-chimeramind.com-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chimeramind.com)
 [![X](https://img.shields.io/badge/X-@ChimeraMindApp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ChimeraMindApp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/chimeramind/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan_Uzun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-uzun-567a0a3ab/)
 [![Download](https://img.shields.io/badge/Desktop-Download-10B981?style=for-the-badge&logo=tauri&logoColor=white)](https://github.com/paulet4a/ChimeraMind-releases/releases/latest)
 
 </div>
@@ -17,7 +17,7 @@ Trading, reimagined as an organism. 21 strategies as one antifragile mind.
 
 ### What I'm building
 
-**ChimeraMind** — an autonomous trading organism. Multi-strategy execution kernel, antifragile portfolio governance, real-time market intelligence. 21 trading bots, 8 enhancers, AI cortex (GBM + HMM + DeepLOB + RL), 60-tool MCP server, 14-domain analytics.
+**ChimeraMiND** — an autonomous trading organism. Multi-strategy execution kernel, antifragile portfolio governance, real-time market intelligence. 21 trading bots, 8 enhancers, AI cortex (GBM + HMM + DeepLOB + RL), 60-tool MCP server, 14-domain analytics.
 
 - Desktop (Svelte 5 + Tauri 2) — Windows / Linux
 - Web portal (React 19 + Vite)
@@ -32,7 +32,8 @@ Trading, reimagined as an organism. 21 strategies as one antifragile mind.
 
 - Product: <https://chimeramind.com>
 - X: [@ChimeraMindApp](https://x.com/ChimeraMindApp)
-- LinkedIn: [chimeramind](https://www.linkedin.com/company/chimeramind/)
+- LinkedIn (founder): [Hasan Uzun](https://www.linkedin.com/in/hasan-uzun-567a0a3ab/)
+- LinkedIn (company): [chimeramind](https://www.linkedin.com/company/chimeramind/)
 - Releases: [ChimeraMind-releases](https://github.com/paulet4a/ChimeraMind-releases/releases)
 
 <div align="center">
